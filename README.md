@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Freelance Developer | Web & Mobile Applications</h3>
+<h1 align="center">Hello 👋, I'm Mark Albanese</h1>
+<h3 align="center">Freelance Developer | Web & Mobile | Java & Angular Enthusiast</h3>
 
 - 💻 Freelance developer with several years of experience in **websites**, **mobile apps**, and **Spring APIs**.  
 - 🛠️ Main technologies: **Java**, **React**, **Angular**, and more.  
@@ -22,6 +22,9 @@
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -34,10 +37,4 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=M-PROGRAMMATION&show_icons=true&theme=dark" alt="Mark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-PROGRAMMATION&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
 </p>
