@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mark Albanese</h1>
+<h1 align="center">Hello 👋, I'm Mark</h1>
 <h3 align="center">Freelance Developer | Web & Mobile | Java & Angular Enthusiast</h3>
 
 - 💻 Freelance developer with several years of experience in **websites**, **mobile apps**, and **Spring APIs**.  
