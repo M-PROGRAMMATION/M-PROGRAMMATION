@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mark</h1>
-<h3 align="center">Freelance Developer | Web & Mobile | Java & Angular Enthusiast</h3>
+<h3 align="center">Freelance Developer | Web & Mobile | Java & Angular</h3>
 
 - 💻 Freelance developer with several years of experience in **websites**, **mobile apps**, and **Spring APIs**.  
 - 🛠️ Main technologies: **Java**, **React**, **Angular**, and more.  
