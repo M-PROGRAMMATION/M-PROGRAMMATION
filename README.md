@@ -1,6 +1,10 @@
-Hello!
+Hello! 🇫🇷 
 
 ---
+
+<p align="center">
+  <img src="mark-anim.svg" width="600" alt="MARK — Développe tes idées !" />
+</p>
 
 ## 🤝​ Contribution
 
