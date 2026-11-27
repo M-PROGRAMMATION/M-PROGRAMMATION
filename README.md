@@ -21,6 +21,8 @@
 [![Email](https://img.shields.io/badge/Email-m.programmation31@gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:m.programmation31@gmail.com)
  
 ---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-programmation&theme=transparent&show_icons=true&locale=en&commits_year=2026&custom_title=My%20GitHub%20Stats)
  
 <div align="center">
   <img src="https://raw.githubusercontent.com/M-PROGRAMMATION/M-PROGRAMMATION/output/snake.svg" alt="Snake eating my contributions" />
