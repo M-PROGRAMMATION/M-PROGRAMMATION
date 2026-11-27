@@ -18,7 +18,7 @@
  
 ## 📫 Contact
  
-[![Email](https://img.shields.io/badge/Email-mark.albanese--alessandrini@attic--group.fr-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:mark.albanese-alessandrini@attic-group.fr)
+[![Email](https://img.shields.io/badge/Email-m.programmation31@gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:m.programmation31@gmail.com)
  
 ---
  
